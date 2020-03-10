@@ -1,4 +1,4 @@
-package edu.escuelaing.arep;
+package edu.escuelaing.arep.Lab5;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 import java.awt.Desktop;
 import java.nio.file.Path;
 
-public class Servidor {
+public class Servidor implements Runnable{
 
     public static void main(String[] args) throws IOException {
         //System.out.println("hola");
@@ -146,5 +146,9 @@ public class Servidor {
             Logger.getLogger(Reto1.class.getName()).log(Level.SEVERE, null, ex);
         }
     }*/
+
+    public void run() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 
 }
