@@ -4,7 +4,7 @@
 
 ["Desplegar un sitio estático usando S3"]("https://youtu.be/nbNxX6hozdo")
 
-["Desplegar un forumulario dinámico usando EC2"]("https://youtu.be/tDyVYwTjzVs")
+["Desplegar un formulario dinámico usando EC2"]("https://youtu.be/tDyVYwTjzVs")
 
 # PATRONES ARQUITECTURALES
 Una empresa lo ha contratado para capacitar a sus ingenieros en la construcción de sitios web dinámicos sobre Amazon Web Services. Para esto usted decidió construir un tutorial y un video que permita a los ingenieros hacer lo siguiente:
